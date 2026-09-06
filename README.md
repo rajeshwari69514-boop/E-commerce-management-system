@@ -16,3 +16,5 @@ The script:
 
 ## Note
 The supplied task sheet lists `City` as a Customer attribute but does not specify its datatype in the datatype table. The SQL implementation uses `VARCHAR(50)` for City.
+## Output
+https://rajeshwari69514-boop.github.io/E-commerce-management-system/
